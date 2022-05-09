@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Listo729
+- 👀 I’m interested in Numbers, Statistics, Probabilities , The Law Of Attraction, Quantum Physics, Coins, Coins,Coins, and GIRLS GIRLS GIRLS!! ...
+- 🌱 I’m currently learning the BEAUTY IN EVERYTHING. 
+- 💞️ I’m looking to collaborate with my soul mate.
+- 📫 How to reach me... DONT, when the planets align and the stars twinkle , the moon shares light and I will be there ... @MyMainSqueeze
