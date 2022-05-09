@@ -1,0 +1,7 @@
+echo "# Listo729" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Listo729/Listo729.git
+git push -u origin main
